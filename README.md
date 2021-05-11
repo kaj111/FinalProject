@@ -1,4 +1,4 @@
-# Final Project
+# Individual Project
 
 Link to git hub repository: https://github.com/kaj111/FinalProject.git
 
