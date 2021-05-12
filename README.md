@@ -1,8 +1,8 @@
 # Individual Project
 
-Link to git hub repository: https://github.com/kaj111/FinalProject.git
+### Link to git hub repository: https://github.com/kaj111/FinalProject.git
 
-Postman listing all records:   
+### Postman listing all records:   
 ![image](screenshots/imageone.JPG)
 
 Postman showing one record with a get request: 
