@@ -5,18 +5,20 @@
 ### Data Screenshots:   
 ![image](screenshots/imagetwo.JPG)  
 
-### Postman Screenshot: 
+### Postman Screenshot with all records: 
 ![image](screenshots/Get.JPG)  
 
 ### Postman showing one record with a get request:  
-![image](screenshots/db image.png.png)
+![image](screenshots/get1.JPG)
 
 ### Project showing postman creating a record by showing the post request and the results in the record listing:  
-![image](screenshots/db image.png.png)
+![image](screenshots/post.JPG)
+![image](screenshots/post2.JPG)
 
-### Project showing postman ediut a record by showing the put request and the results in the record listing:  
-![image](screenshots/db image.png.png)
+### Project showing postman edit a record by showing the put request and the results in the record listing:  
+![image](screenshots/put.JPG)
+![image](screenshots/put1.JPG)
 
 ### Project showing postman delete a record by showing the delete request and the results in the record listing:  
-![image](screenshots/db image.png.png)
-
+![image](screenshots/Delete1.JPG)
+![image](screenshots/Delete2.JPG)
