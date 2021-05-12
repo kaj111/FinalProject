@@ -3,9 +3,11 @@
 ### Link to git hub repository: https://github.com/kaj111/FinalProject.git
 
 ### Data Screenshots:   
-![image](screenshots/imageone.JPG)
+![image](screenshots/imageone.JPG)  
+![image](screenshots/db image.png.png)
 
-Postman listing all records: 
+### Postman Screenshot: 
+
 Postman showing one record with a get request: 
 
 Project showing postman creating a record by showing the post request and the results in the record listing: 
