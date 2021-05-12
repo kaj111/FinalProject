@@ -3,6 +3,7 @@
 Link to git hub repository: https://github.com/kaj111/FinalProject.git
 
 Postman listing all records: 
+![image](FinalProject/screenshots/imageone.JPG)
 
 Postman showing one record with a get request: 
 
