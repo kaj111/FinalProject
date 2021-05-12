@@ -2,9 +2,10 @@
 
 ### Link to git hub repository: https://github.com/kaj111/FinalProject.git
 
-### Postman listing all records:   
+### Data Screenshots:   
 ![image](screenshots/imageone.JPG)
 
+Postman listing all records: 
 Postman showing one record with a get request: 
 
 Project showing postman creating a record by showing the post request and the results in the record listing: 
